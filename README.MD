@@ -134,11 +134,9 @@ Muestra 2: Clase 3
 
 - **Modelo seleccionado:** Random Forest
 - **Métricas del modelo:** (Estos valores deben ser obtenidos de la ejecución del notebook y MLflow)
-    - Accuracy:  0.95 (Ejemplo)
-    - ROC_AUC: 0.97 (Ejemplo)
-    - Precision: ...
-    - Recall: ...
-    - F1-Score: ...
+    - Accuracy:  1
+    - ROC_AUC: 1
+
 
 - La importancia de las variables y la matriz de confusión están disponibles en la interfaz de MLflow.
 
