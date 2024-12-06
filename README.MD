@@ -7,16 +7,6 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación para i
 
 ---
 
-## Estructura del Proyecto
-
-- `data/`: Contiene los datos originales y preprocesados.
-- `notebooks/`: Contiene el notebook principal con el flujo de trabajo completo.  (e.g., `wine_classification.ipynb`)
-- `artifacts/`: Almacena artefactos como la matriz de confusión y la importancia de las variables.
-- `models/`: Contiene los modelos registrados y exportados.
-- `README.md`: Archivo que detalla el proyecto.
-- `requirements.txt`: Lista de dependencias del proyecto.
-
-
 ---
 
 ## Flujo de Trabajo
