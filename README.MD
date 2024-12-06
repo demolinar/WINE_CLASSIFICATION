@@ -1,4 +1,4 @@
-```markdown
+
 # Clasificación de Variedades de Uva con Random Forest
 
 ## Descripción del Proyecto
@@ -147,4 +147,4 @@ Muestra 2: Clase 3
 ## Conclusiones
 
 Random Forest demostró ser un modelo robusto para este problema, mostrando una alta precisión en la clasificación de variedades de uva.  `FLAVONOIDS` fue la variable más importante para la clasificación, según el modelo.  El proyecto proporciona una base sólida para futuros desarrollos en la clasificación de vinos.
-```
+
