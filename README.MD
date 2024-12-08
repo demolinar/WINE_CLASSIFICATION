@@ -136,3 +136,12 @@ Muestra 2: Clase 3
 
 Random Forest demostró ser un modelo robusto para este problema, mostrando una alta precisión en la clasificación de variedades de uva.  `FLAVONOIDS` fue la variable más importante para la clasificación, según el modelo.  El proyecto proporciona una base sólida para futuros desarrollos en la clasificación de vinos.
 
+
+
+![alt text](https://github.com/demolinar/WINE_CLASSIFICATION/blob/main/images/ml0.png)
+![alt text](https://github.com/demolinar/WINE_CLASSIFICATION/blob/main/images/ml1.png)
+![alt text](https://github.com/demolinar/WINE_CLASSIFICATION/blob/main/images/ml2.png)
+
+
+
+
